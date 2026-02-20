@@ -1,297 +1,109 @@
-<!-- =============================== HEADER =============================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a1b27,60:0d1117,100:1f6feb&height=300&section=header&text=Rishav%20Anand&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20•%20Generative%20AI%20•%20MLOps%20•%20Open%20Source&descSize=18&descAlignY=58&animation=fadeIn&stroke=58a6ff&strokeWidth=1" width="100%"/>
+# Hey, I'm Rishav 👋
 
-</div>
+**AI Engineer** crafting production-grade LLM applications, autonomous agents, and ML systems.
 
-<!-- ============================= INTRO SECTION ============================= -->
-
-<div align="center">
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=Architecting+Intelligent+Systems+from+Concept+to+Production+%F0%9F%8F%97%EF%B8%8F;LLMs+%E2%86%92+RAG+%E2%86%92+Agents+%E2%86%92+Deployment+%E2%80%94+Full+Stack+AI+%F0%9F%94%A5)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- Social Links — Minimal Flat Style -->
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="25"/></a>&nbsp;
-<a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" height="25"/></a>&nbsp;
-<a href="https://kaggle.com/YOUR-KAGGLE"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" height="25"/></a>&nbsp;
-<a href="https://hackerrank.com/YOUR-HACKERRANK"><img src="https://img.shields.io/badge/-HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white" height="25"/></a>&nbsp;
-<a href="mailto:rishav6604@gmail.com"><img src="https://img.shields.io/badge/-rishav6604@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" height="25"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=flat-square&color=1f6feb&label=Profile+Views" height="22"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR-KAGGLE)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white)](https://hackerrank.com/YOUR-HACKERRANK)
+[![Gmail](https://img.shields.io/badge/rishav6604@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rishav6604@gmail.com)
 
 </div>
 
 <br/>
 
-<!-- ============================= ABOUT ME ============================= -->
+## `> whoami`
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+I build AI systems that ship. My work spans the full lifecycle — from **data pipelines** and **model training** to **LLM orchestration** and **cloud deployment**. I care about clean architecture, scalability, and solving real problems with AI.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=donut-vertical&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true&langs_count=6" width="260"/>
+- 🔭 &nbsp;Currently focused on **agentic AI systems** and **production ML pipelines**
+- 🎓 &nbsp;B.Sc. Information Technology — Marwari College, Bhagalpur *(2024 – 2026)*
+- 🏆 &nbsp;IBM Certified AI Engineer · McKinsey Forward Program · Google Summer of Code Contributor
+- 📬 &nbsp;Reach me at **rishav6604@gmail.com**
 
-```js
-const rishav = {
-  role:       "AI Engineer",
-  location:   "India 🇮🇳",
-  education:  "B.Sc. IT — Marwari College, Bhagalpur",
-  focus:      ["LLM Applications", "Agentic AI", "MLOps"],
-  languages:  ["Python", "SQL"],
-  frameworks: ["LangChain", "LangGraph", "FastAPI", "Flask"],
-  cloud:      ["AWS", "GCP", "Azure"],
-  motto:      "Ship AI that works in the real world.",
-};
+<br/>
+
+## `> skills`
+
+```
+LANGUAGES        Python, SQL
+GENAI & LLMs     OpenAI (GPT-4), Google Gemini Pro, Ollama, LangChain, LangGraph, Hugging Face
+AI SYSTEMS       RAG, Prompt Engineering, AI Automation Workflows, Agentic Systems
+ML & DATA        Scikit-learn, Pandas, Feature Engineering, Model Evaluation
+FRAMEWORKS       FastAPI, Flask
+CLOUD            AWS (EC2, S3), Google Cloud Platform, Microsoft Azure
+DEVOPS & MLOPS   Docker, Git, GitHub Actions CI/CD, MLflow
+DATABASES        Pinecone (Vector DB), Redis, PostgreSQL
 ```
 
-AI Engineer with production experience in designing, building, and deploying **LLM-powered applications**, **multi-agent systems**, and **end-to-end ML pipelines**. I specialize in taking AI from prototype to production — building **RAG architectures**, orchestrating model workflows, and deploying reliable, scalable systems on cloud infrastructure.
+<br/>
 
-**Currently:** Building autonomous AI agents and scalable inference pipelines  
-**Looking for:** Full-time AI/ML Engineering roles & open-source collaborations
+## `> experience`
 
-<br clear="both"/>
+**AI Engineer Intern** · Unified Mentor Pvt. Ltd. · `Jun 2025 – Dec 2025`
+
+> Designed and shipped end-to-end ML & AI pipelines from data ingestion to model delivery. Built predictive and forecasting models across multiple business domains. Developed reusable preprocessing and feature engineering modules focused on stability and scalability.
+
+**AI Intern** · Infosys Springboard · `Aug 2025 – Oct 2025`
+
+> Led a 15-member Agile team building production AI applications. Architected AI-driven workflows spanning preprocessing, model orchestration, evaluation, and backend integration. Deployed end-to-end systems integrating data pipelines, ML/LLM inference, and application-layer services.
+
+<br/>
+
+## `> projects`
+
+### [`AI Powered Medical Chatbot`](https://github.com/YOUR-GITHUB-USERNAME/ai-medical-chatbot)
+**GPT-4 · LangChain · Pinecone · Flask · AWS**
+
+Medical Q&A system using RAG architecture. Built a semantic search pipeline with HuggingFace Sentence-Transformers for document embedding and Pinecone for vector retrieval. Flask API serves real-time responses. Containerized with Docker and deployed on AWS EC2 with GitHub Actions CI/CD.
 
 ---
 
-<!-- ============================= TECH STACK ============================= -->
+### [`Autonomous Research & Task Execution Agent`](https://github.com/YOUR-GITHUB-USERNAME/autonomous-research-agent)
+**LangGraph · OpenAI · FastAPI · Redis · AWS**
 
-## 🧰 &nbsp;Technology Arsenal
-
-<table>
-  <tr>
-    <td valign="top" width="25%">
-      <h4 align="center">🐍 Languages</h4>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=python" height="40"/>&nbsp;
-        <img src="https://skillicons.dev/icons?i=bash" height="40"/>&nbsp;
-        <br/><br/>
-        <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-      </div>
-    </td>
-    <td valign="top" width="25%">
-      <h4 align="center">🤖 GenAI & LLMs</h4>
-      <div align="center">
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-        <img src="https://img.shields.io/badge/LangGraph-2D2D2D?style=flat-square"/>
-        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Ollama-000?style=flat-square&logo=ollama&logoColor=white"/>
-        <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Pinecone-000?style=flat-square&logo=pinecone&logoColor=white"/>
-      </div>
-    </td>
-    <td valign="top" width="25%">
-      <h4 align="center">⚙️ Frameworks</h4>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=fastapi,flask" height="40"/>&nbsp;
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
-      </div>
-    </td>
-    <td valign="top" width="25%">
-      <h4 align="center">☁️ Cloud & DevOps</h4>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,git,redis" height="40" />&nbsp;
-        <br/><br/>
-        <img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-      </div>
-    </td>
-  </tr>
-</table>
+Multi-agent autonomous system built on LangGraph with tool-calling capabilities — web search, document parsing, and API integrations. Uses Redis for stateful memory enabling multi-step reasoning and contextual task execution. Deployed as a Dockerized FastAPI service on AWS.
 
 ---
 
-<!-- ============================= EXPERIENCE ============================= -->
+### [`End-to-End ML Pipeline & Model Monitoring`](https://github.com/YOUR-GITHUB-USERNAME/ml-pipeline-monitoring)
+**Scikit-learn · MLflow · FastAPI · Docker · GCP**
 
-## 💼 &nbsp;Experience
+Full ML lifecycle system: data ingestion → feature engineering → model training → experiment tracking with MLflow → Dockerized FastAPI inference on Google Cloud. Includes automated validation and retraining for production reliability.
 
-<details open>
-<summary><b>🔬 AI Engineer Intern — Unified Mentor Pvt. Ltd.</b> &nbsp;<code>Jun 2025 – Dec 2025</code></summary>
 <br/>
 
-| Area | Details |
-|------|---------|
-| **Pipelines** | Designed end-to-end ML & AI pipelines — from data ingestion through model delivery |
-| **Modeling** | Built predictive & forecasting models supporting business decision-making across multiple domains |
-| **Engineering** | Developed reusable preprocessing & feature engineering modules for model stability at scale |
-| **Collaboration** | Worked cross-functionally to translate real-world business problems into AI-driven solutions |
+## `> certifications`
 
-</details>
+| Credential | Issuer |
+|:---|:---|
+| Certified AI Engineer & Generative AI Engineer | **IBM** |
+| Forward Program — Certified Badge | **McKinsey & Company** |
+| Open Source Contributor — Summer of Code | **Google** |
 
-<details open>
-<summary><b>🧠 AI Intern — Infosys Springboard</b> &nbsp;<code>Aug 2025 – Oct 2025</code></summary>
 <br/>
 
-| Area | Details |
-|------|---------|
-| **Leadership** | Led a **15-member Agile team** in building reliable, deployable AI applications |
-| **Architecture** | Built AI-driven workflows: preprocessing → model orchestration → evaluation → backend integration |
-| **Deployment** | Designed & deployed end-to-end AI systems integrating data pipelines, ML/LLM inference, and application-layer services |
+## `> stats`
 
-</details>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true&count_private=true&rank_icon=github" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&background=00000000&border=00000000&stroke=30363d&ring=58a6ff&fire=ff6723&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" width="48%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&bg_color=00000000&color=58a6ff&line=58a6ff&point=ff6723&area=true&area_color=58a6ff33&hide_border=true" width="95%"/>
+</div>
+
+<br/>
 
 ---
 
-<!-- ============================= PROJECTS ============================= -->
-
-## 🚀 &nbsp;Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 AI Medical Chatbot
-<sup>LLMs · LangChain · Pinecone · Flask · AWS</sup>
-
-<br/>
-
-> Intelligent medical Q&A system powered by **GPT-4** and **RAG architecture**
-
-- Semantic search & document retrieval via **Pinecone** vector DB
-- Document parsing pipeline using **HuggingFace Sentence-Transformers**
-- Flask API for real-time Q&A with sub-second response times
-- Dockerized & deployed on **AWS EC2** with GitHub Actions CI/CD
-
-<br/>
-
 <div align="center">
-  <a href="https://github.com/YOUR-GITHUB-USERNAME/ai-medical-chatbot"><img src="https://img.shields.io/badge/View_Repository-1f6feb?style=for-the-badge&logo=github&logoColor=white" height="28"/></a>
+  <sub>⚡ Built with focus. Deployed with confidence.</sub>
 </div>
-
-</td>
-<td width="50%">
-
-### 🧠 Autonomous Research Agent
-<sup>LangGraph · OpenAI · FastAPI · Redis · AWS</sup>
-
-<br/>
-
-> Multi-agent autonomous system with **stateful reasoning** and tool-calling
-
-- **LangGraph** orchestration with web search, document parsing & API tools
-- **Stateful memory** via Redis for multi-step reasoning & contextual execution
-- FastAPI service for scalable, production-grade inference
-- Containerized with Docker & deployed on **AWS**
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/YOUR-GITHUB-USERNAME/autonomous-research-agent"><img src="https://img.shields.io/badge/View_Repository-1f6feb?style=for-the-badge&logo=github&logoColor=white" height="28"/></a>
-</div>
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### 📊 End-to-End ML Pipeline & Model Monitoring
-<sup>Scikit-learn · MLflow · FastAPI · Docker · GCP</sup>
-
-<br/>
-
-> Full ML lifecycle system: **ingestion → feature engineering → training → monitoring → retraining**
-
-- Complete pipeline: data ingestion → feature engineering → Scikit-learn training → **MLflow** experiment tracking & versioning
-- Dockerized **FastAPI** inference service deployed on **Google Cloud Platform**
-- Automated model validation & retraining for continuous production reliability
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/YOUR-GITHUB-USERNAME/ml-pipeline-monitoring"><img src="https://img.shields.io/badge/View_Repository-1f6feb?style=for-the-badge&logo=github&logoColor=white" height="28"/></a>
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ============================= GITHUB STATS ============================= -->
-
-## 📊 &nbsp;GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=false&count_private=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=github-dark-blue&border=30363d&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6723&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&hide_border=false" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6723&area=true&area_color=1f6feb33&hide_border=true&custom_title=Contribution%20Timeline" width="95%"/>
-</div>
-
-<br/>
-
-<!-- Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%"/>
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-snake-dark.svg" width="95%"/>
-  </picture>
-</div>
-
----
-
-<!-- ============================= CERTIFICATIONS ============================= -->
-
-## 🏅 &nbsp;Certifications & Achievements
-
-<div align="center">
-
-|  | Certification | Issuer |
-|:---:|:---|:---|
-| <img src="https://img.shields.io/badge/-054ADA?style=flat-square&logo=ibm&logoColor=white" height="20"/> | **Certified AI Engineer & Generative AI Engineer** | IBM |
-| <img src="https://img.shields.io/badge/-00A0DF?style=flat-square&logo=mckinsey&logoColor=white" height="20"/> | **Forward Program — Certified Badge** | McKinsey & Company |
-| <img src="https://img.shields.io/badge/-4285F4?style=flat-square&logo=google&logoColor=white" height="20"/> | **Open Source Contributor — Google Summer of Code** | Google |
-
-</div>
-
----
-
-<!-- ============================= CONNECT ============================= -->
-
-<div align="center">
-
-<h2>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp;Let's Build Something Together
-</h2>
-
-<p>
-  <i>I'm always open to interesting conversations, collaborations on AI/ML projects, and open-source contributions.</i>
-</p>
-
-<br/>
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>&nbsp;&nbsp;
-<a href="mailto:rishav6604@gmail.com"><img src="https://img.shields.io/badge/Drop_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>&nbsp;&nbsp;
-<a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35"/></a>
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" width="520"/>
-
-</div>
-
-<br/>
-
-<!-- ============================= FOOTER ============================= -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=130&section=footer" width="100%"/>
